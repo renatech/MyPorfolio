@@ -76,14 +76,13 @@ export default {
     return {}
   },
   head: {
-    title: 'I am SUN',
+    title: 'I am Serena',
     meta: [
       { charset: 'utf-8' },
       {
         hid: 'description',
         name: 'description',
-        content:
-          'A software engineer with a love for beautiful and function websites and applications',
+        content: 'A web developer with a love for education',
       },
       {
         property: 'og:type',
@@ -95,7 +94,7 @@ export default {
       },
       {
         property: 'og:title',
-        content: 'SUN :: Sylvester Uche Nkeze',
+        content: 'Serena :: Serena Samuel',
       },
       {
         property: 'og:decsription',
@@ -112,7 +111,7 @@ export default {
       },
       {
         property: 'twitter:title',
-        content: 'SUN :: Sylvester Uche Nkeze',
+        content: 'Serena :: Serena Samuel',
       },
       {
         property: 'twitter:description',

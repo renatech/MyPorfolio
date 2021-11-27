@@ -17,14 +17,14 @@
       >
         <div class="text-gray-600 text-base lg:w-6/12">
           <p class="mb-5">
-            My name is Sylvester Uche Nkeze (SUN), a full-stack software
-            engineer with over 5 years of experience building web applications
-            for SMEs and startups. I am a staunch audiophile (synth waves and
-            frank Sinatra in work mode). These days, I enjoy engaging in
-            design-centric tasks ranging from front-end development to User
-            Interface design. This interest in design stems from my love for art
-            and my desire to make the engagement of digital products extremely
-            smooth and enticing.
+            My name is Samuel Serena, Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Assumenda id eius deleniti qui odio architecto
+            voluptate placeat voluptas iusto accusamus, ex repudiandae omnis
+            consequuntur sequi perferendis pariatur suscipit, quidem inventore.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem illo
+            quod pariatur eos ducimus voluptatibus architecto doloremque?
+            Sapiente unde magnam fugiat cupiditate amet nisi, ratione quisquam
+            nihil illo? Similique, vel!
           </p>
           <!-- <p class="mb-5">
             My interest in web development started back in 2015 when I developed

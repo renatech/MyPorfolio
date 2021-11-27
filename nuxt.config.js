@@ -18,11 +18,11 @@ export default {
       { hid: 'description', name: 'description', content: '' },
       {
         property: 'og:image',
-        content: 'https://sundev.netlify.app/banner.png',
+        content: '/banner.png',
       },
       {
         property: 'twitter:image',
-        content: 'https://sundev.netlify.app/banner.png',
+        content: '/banner.png',
       },
     ],
     link: [{ rel: 'icon', type: 'image/png', href: '/icon.png' }],

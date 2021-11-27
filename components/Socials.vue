@@ -1,16 +1,12 @@
 <template>
   <div class="socials">
-    <a class="icons" target="_blank" href="http://github.com/silverman42">
+    <a class="icons" target="_blank" href="https://github.com/renatech/">
       <github-icon size="1.3x"></github-icon>
     </a>
-    <a class="icons" target="_blank" href="https://twitter.com/snkeze9">
+    <a class="icons" target="_blank" href="#">
       <twitter-icon size="1.3x"></twitter-icon>
     </a>
-    <a
-      class="icons"
-      target="_blank"
-      href="https://linkedin.com/in/sylvester-nkeze"
-    >
+    <a class="icons" target="_blank" href="#">
       <linkedin-icon size="1.3x"></linkedin-icon>
     </a>
     <div class="divider"></div>

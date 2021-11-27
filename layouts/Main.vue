@@ -19,7 +19,7 @@
           py-3
         "
       >
-        <nuxt-link to="/" class="w-10 inline-block font-bold">
+        <nuxt-link to="/" class="w-20 inline-block font-bold">
           <img src="/logo.svg" class="w-full h-auto" />
         </nuxt-link>
         <nav v-if="isHomePage === true" class="flex items-center text-sm">
