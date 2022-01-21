@@ -14,18 +14,22 @@
           lg:flex-row lg:justify-between
           hide-slideInLeft
         "
+      >
         <div class="text-gray-600 text-base lg:w-6/12">
           <p class="mb-5">
-            My name is Serena, I am a software developer and a STEM instructor. 
-            I have been a software developer for 6 years and a STEM instructor for 2 years.
-            s In the coming years, I wish to expand my knowledge in the IT sector by 
-            studying Artificial Intelligence, data science, and robotics.
+            My name is Samuel Serena, I am a software developer and a STEM instructor. 
+            I have been a software developer for 6 years and a STEM instructor for 2 years. 
+            In the coming years, I wish t0 expand my knowledge in the IT sector by
+             studying Artificial Intelligence, data science, and robotics.
           </p>
-          <p class="mb-5">
-             My interest in web development started back in 2014 When I went on holiday then I registered for 
-             Java programming language just to pass cos 201(intoduction to Java) a 200 Level course in first semester that
-             was when my fear for coding disappeard.
-          </p> 
+           <!--<p class="mb-5">
+            My interest in web development started back in 2015 when I developed
+            a Financial accounting system as a final year project in university.
+            Since then, it has been a roller coaster of engagement with multiple
+            development tools and projects, all with the aim of helping to
+            simplify the technical difficulties faced by businesses and
+            individuals.
+          </p>-->
           <p class="mb-5">
             Here are a few of the web tools I currently use and enjoy
           </p>
@@ -35,6 +39,7 @@
             <li>CSS 3</li>
             <li>TailwindCSS</li>
             <li>Vue Js</li>
+            <li>NuxtJs</li>
             <li>Laravel Framework</li>
             <li>Figma</li>
             <li>NodeJs</li>
@@ -46,7 +51,7 @@
           <img
             src="/profile_image.png"
             class="w-full bg-black rounded-3xl"
-            alt="Serena's profile image"
+            alt="Sylvester's profile image"
           />
         </div>
       </div>
