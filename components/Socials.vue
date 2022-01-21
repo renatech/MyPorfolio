@@ -3,10 +3,10 @@
     <a class="icons" target="_blank" href="https://github.com/renatech/">
       <github-icon size="1.3x"></github-icon>
     </a>
-    <a class="icons" target="_blank" href="#">
+    <a class="icons" target="_blank" href="https://twitter.com/Serena13207721?t=rr1i4D_W8UoxJGf4_uNaXA&s=09">
       <twitter-icon size="1.3x"></twitter-icon>
     </a>
-    <a class="icons" target="_blank" href="#">
+    <a class="icons" target="_blank" href="https://www.linkedlin.com/in/renatech">
       <linkedin-icon size="1.3x"></linkedin-icon>
     </a>
     <div class="divider"></div>

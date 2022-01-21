@@ -1,5 +1,5 @@
 ---
-name: JD-Computers
+name: ace_playhouse
 fullname: JD Computer Technologies
 title: Lead Software Engineer (Contract)
 from: January 2019

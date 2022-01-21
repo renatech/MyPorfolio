@@ -10,12 +10,12 @@
       <div class="w-full">
         <p class="text-gray-500 md:text-lg mb-5 hide-slideUp">
           Hello, I am <span class="text-gray-900 inline-block">S</span
-          ><span class="hidden-name inline-block align-middle">erena</span>
-          <span class="text-gray-900">S</span
-          ><span class="hidden-name inline-block align-middle">amuel</span>
+          <span class="hidden-name inline-block align-middle">erena</span>
+         <span class="text-gray-900">H</span
+          ><span class="hidden-name inline-block align-middle">ubert</span>
         </p>
         <h1 class="font-bold text-gray-800 text-3xl md:text-7xl">
-          I am an educator and web developer that builds websites for
+          I am a STEM instructor and web developer that builds websites for
           <span
             id="serviceType"
             class="
@@ -69,7 +69,7 @@ export default {
   },
   data() {
     return {
-      workTypes: ['schools', 'startups'],
+      workTypes: ['schools', 'startups' , 'companies'],
       defaultWorkTypeIndex: 0,
     }
   },

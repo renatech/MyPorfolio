@@ -14,17 +14,12 @@
           lg:flex-row lg:justify-between
           hide-slideInLeft
         "
-      >
         <div class="text-gray-600 text-base lg:w-6/12">
           <p class="mb-5">
-            My name is Serena, Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Assumenda id eius deleniti qui odio architecto
-            voluptate placeat voluptas iusto accusamus, ex repudiandae omnis
-            consequuntur sequi perferendis pariatur suscipit, quidem inventore.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem illo
-            quod pariatur eos ducimus voluptatibus architecto doloremque?
-            Sapiente unde magnam fugiat cupiditate amet nisi, ratione quisquam
-            nihil illo? Similique, vel!
+            My name is Serena, I am a software developer and a STEM instructor. 
+            I have been a software developer for 6 years and a STEM instructor for 2 years.
+            s In the coming years, I wish to expand my knowledge in the IT sector by 
+            studying Artificial Intelligence, data science, and robotics.
           </p>
           <p class="mb-5">
              My interest in web development started back in 2014 When I went on holiday then I registered for 

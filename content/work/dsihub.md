@@ -1,7 +1,7 @@
 ---
 name: DSIHUB
 fullname: DSIHUB
-title: Frontend Engineer /  Web Development Tutor
+title: Intern /  Web Development Tutor
 from: May 2017
 position: 1
 to: October 2019,
