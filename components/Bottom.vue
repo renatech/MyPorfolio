@@ -25,6 +25,12 @@
           <p class="text-primary-200 text-sm">
             I am very open to collaborations and consultations. You could reach
             me on my social media handles or email.
+            <action-e-link
+            :extra-css="['btn-secondary-inverse', 'btn-rounded']"
+            href="mailto:samuelserenaluv@gmail.com&subject=Hello Serena"
+            target="_blank"
+            >Say Hello</action-e-link
+          >
           </p>
         </div>
         <div class="md:w-36 w-full my-5">
@@ -44,7 +50,7 @@
       <a
         href="http://sundev.netlify.app"
         class="text-primary-600 font-sans hover:text-primary-800"
-        >Sylvester Nkeze</a
+        >Serena Hubert </a
       >
     </div>
   </section>
