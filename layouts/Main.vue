@@ -42,9 +42,9 @@
           <nuxt-link exact active-class="active" to="/" class="section-links">
             Pr<span class="hidden md:inline">ofile</span>
           </nuxt-link>
-          <nuxt-link active-class="active" to="/blog" class="section-links">
+          <a target="_blank" href="https://www.crave4tech.com/" class="section-links">
             Bl<span class="hidden md:inline">og</span>
-          </nuxt-link>
+          </a>
         </div>
       </div>
     </header>
